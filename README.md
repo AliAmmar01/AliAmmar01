@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello People!
+### I'm Ali Ammar, aka cheetos, a Junior Cybersecurity Student
+### Welcome to my github 👋
 
-<!--
-**AliAmmar01/AliAmmar01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About me:
+A Junior Cybersecurity Bachelor's student at, both, Ain Shams University in Cairo, Egypt and University of East London in London, United Kingdom, with a three-months internships and training experience. I am an enthusiast of protecting digital assets and dedicated to applying my knowledge and skills to help organizations prevent and respond to cyberattacks.
+Eager to apply my skills and strengths to drive innovation and achieve group and personal growth in a collaborative environment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact me:
+- Email:
+- Linkedin:
+- Personal Website:
