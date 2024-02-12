@@ -1,4 +1,4 @@
-### Hello People!
+# Hello People!
 ### I'm Ali Ammar, aka cheetos, a Junior Cybersecurity Student
 ### Welcome to my github 👋
 
