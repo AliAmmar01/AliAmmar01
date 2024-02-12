@@ -1,8 +1,6 @@
 🚨Défilez vers le bas pour la version française🚨
 
-## Hello People!
-## I'm Ali Ammar, aka cheetos, a Junior Cybersecurity Student 🌐
-## Welcome to my github 👋
+## Hello People! ## I'm Ali Ammar, aka cheetos, a Junior Cybersecurity Student 🌐 ## Welcome to my github 👋
 
 
 #### About me:
