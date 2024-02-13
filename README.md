@@ -4,6 +4,8 @@
 I'm <a href="https://www.linkedin.com/in/aliaymanammar03/">Ali Ammar</a>, aka cheetos, a Junior Cybersecurity Student 🌐</br>
 Welcome to my github 👋 </h1>
 
+<a align="center">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliammar01)](https://github.com/anuraghazra/github-readme-stats)</a>
+
 <h2> About me:</h2>
 A Junior Cybersecurity Bachelor's student at, both, Ain Shams University in Cairo, Egypt and University of East London in London, United Kingdom, with a three-months internships and training experience. I am an enthusiast of protecting digital assets and dedicated to applying my knowledge and skills to help organizations prevent and respond to cyberattacks.
 Eager to apply my skills and strengths to drive innovation and achieve group and personal growth in a collaborative environment.
@@ -47,8 +49,3 @@ Désireux d'appliquer mes compétences pour stimuler l'innovation et réaliser u
 📱 Whatsapp: +201110536366 </br>
 📧 Email: aliammarpro1@gmail.com </br>
 🔗 Linkedin: <a href="https://www.linkedin.com/in/aliaymanammar03/"> Ali Ammar </a>
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliammar01)](https://github.com/anuraghazra/github-readme-stats)
-
-
