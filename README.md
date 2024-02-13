@@ -13,13 +13,18 @@ Eager to apply my skills and strengths to drive innovation and achieve group and
 <h2>👨‍💻 Projects:</h2>
 
 - <b>C++:</b>
+  - [Structured Programming Practice Sheets and Solutions](https://github.com/AliAmmar01/Structured-Programming-Sheets)
   - [A simple recreation of the infamous arcade game FlappyBird](https://github.com/AliAmmar01/FlappyBird-SFML)
+  - Data structures:
+    - [Vaccine Tracking System (Practice Project)](https://github.com/AliAmmar01/Vaccine-Tracking-System)
 - <b>C:</b>
   - [Simple operating system implementing First Fit memory allocation strategy, Best Fit memory allocation strategy and Page Fault Handling](https://github.com/AliAmmar01/FOS)
 - <b>PowerShell</b>
   - [A script for sending emails](https://github.com/AliAmmar01/EmailScript)
 - <b>Python</b>
   - [Youtube Video Downloader](https://github.com/AliAmmar01/Yt-Vid-Downloader)
+- <b>Arduino:</b>
+  - [Self Watering Plant Arduino System](https://github.com/AliAmmar01/Arduino-Self-Watering-Plant-System)
 
 <h2>💬 Contact me:</h2>
 📱 Whatsapp: +201110536366 </br>
@@ -34,16 +39,21 @@ Bienvenue sur mon github 👋 </h1>
 Actuellement étudiant de cybersécurité en troisieme année à l'Université Ain Shams au Caire, en Égypte, et à l'Université d'East London à Londres, au Royaume-Uni, avec une expérience de formation et de stage de trois mois. Je suis passionné par la protection des actifs numériques et je me consacre à appliquer mes connaissances et mes compétences pour aider les organisations à prévenir et à répondre aux cyberattaques.
 Désireux d'appliquer mes compétences pour stimuler l'innovation et réaliser une croissance de groupe et personnelle dans un environnement collaboratif.
 
-<h2>👨‍💻 Projects:</h2>
+<h2>👨‍💻 Projets:</h2>
 
 - <b>C++:</b>
+  - [Fiches pratiques et solutions de programmation structurée (Structured Programming)](https://github.com/AliAmmar01/Structured-Programming-Sheets)
   - [Une reconstitution simple du célèbre jeu d'arcade FlappyBird](https://github.com/AliAmmar01/FlappyBird-SFML)
+  - Data structures:
+    - [Système pour suivre la Vaccination(Projet Pratique)](https://github.com/AliAmmar01/Vaccine-Tracking-System)
 - <b>C:</b>
   - [Un OS simple mettant en œuvre la stratégie d'allocation de mémoire First Fit, la stratégie d'allocation de mémoire Best Fit et la gestion des Page Fault](https://github.com/AliAmmar01/FOS)
 - <b>PowerShell</b>
   - [Un script pour envoyer des emails](https://github.com/AliAmmar01/EmailScript)
 - <b>Python</b>
   - [Téléchargeur de vidéos Youtube](https://github.com/AliAmmar01/Yt-Vid-Downloader)
+- <b>Arduino:</b>
+  - [Système Arduino pour plante à arrosage automatique](https://github.com/AliAmmar01/Arduino-Self-Watering-Plant-System)
 
 <h2>💬 Contactez-moi:</h2>
 📱 Whatsapp: +201110536366 </br>
