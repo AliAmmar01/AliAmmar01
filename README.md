@@ -13,8 +13,8 @@ Eager to apply my skills and strengths to drive innovation and achieve group and
 <h2>👨‍💻 Projects:</h2>
 
 - <b>C++:</b>
-  - [Structured Programming Practice Sheets and Solutions](https://github.com/AliAmmar01/Structured-Programming-Sheets)
   - [A simple recreation of the infamous arcade game FlappyBird](https://github.com/AliAmmar01/FlappyBird-SFML)
+  - [Structured Programming Practice Sheets and Solutions](https://github.com/AliAmmar01/Structured-Programming-Sheets)
   - Data structures: [Vaccine Tracking System (Practice Project)](https://github.com/AliAmmar01/Vaccine-Tracking-System)
   - Arduino: [Self Watering Plant Arduino System](https://github.com/AliAmmar01/Arduino-Self-Watering-Plant-System)
 - <b>C:</b>
@@ -31,7 +31,7 @@ Eager to apply my skills and strengths to drive innovation and achieve group and
 
 <h1> Salut tout le monde! </br>
 Je m'appelle <a href="https://www.linkedin.com/in/aliaymanammar03/">Ali Ammar</a>, alias cheetos, un étudiant de cybersécurité en troisieme année 🌐 </br>
-Bienvenue sur mon github 👋 </h1>
+Bienvenue à mon github 👋 </h1>
 
 <h2> À propos de moi: </h2>
 Actuellement étudiant de cybersécurité en troisieme année à l'Université Ain Shams au Caire, en Égypte, et à l'Université d'East London à Londres, au Royaume-Uni, avec une expérience de formation et de stage de trois mois. Je suis passionné par la protection des actifs numériques et je me consacre à appliquer mes connaissances et mes compétences pour aider les organisations à prévenir et à répondre aux cyberattaques.
@@ -40,8 +40,8 @@ Désireux d'appliquer mes compétences pour stimuler l'innovation et réaliser u
 <h2>👨‍💻 Projets:</h2>
 
 - <b>C++:</b>
+  - [Une reconstitution simple du jeu célèbre d'arcade FlappyBird](https://github.com/AliAmmar01/FlappyBird-SFML)
   - [Fiches pratiques et solutions de programmation structurée (Structured Programming)](https://github.com/AliAmmar01/Structured-Programming-Sheets)
-  - [Une reconstitution simple du célèbre jeu d'arcade FlappyBird](https://github.com/AliAmmar01/FlappyBird-SFML)
   - Data structures: [Système pour suivre la Vaccination(Projet Pratique)](https://github.com/AliAmmar01/Vaccine-Tracking-System)
   - Arduino: [Système Arduino pour plante à arrosage automatique](https://github.com/AliAmmar01/Arduino-Self-Watering-Plant-System)
 - <b>C:</b>
