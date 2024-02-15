@@ -15,16 +15,14 @@ Eager to apply my skills and strengths to drive innovation and achieve group and
 - <b>C++:</b>
   - [Structured Programming Practice Sheets and Solutions](https://github.com/AliAmmar01/Structured-Programming-Sheets)
   - [A simple recreation of the infamous arcade game FlappyBird](https://github.com/AliAmmar01/FlappyBird-SFML)
-  - Data structures:
-    - [Vaccine Tracking System (Practice Project)](https://github.com/AliAmmar01/Vaccine-Tracking-System)
+  - Data structures: [Vaccine Tracking System (Practice Project)](https://github.com/AliAmmar01/Vaccine-Tracking-System)
+  - Arduino: [Self Watering Plant Arduino System](https://github.com/AliAmmar01/Arduino-Self-Watering-Plant-System)
 - <b>C:</b>
   - [Simple operating system implementing First Fit memory allocation strategy, Best Fit memory allocation strategy and Page Fault Handling](https://github.com/AliAmmar01/FOS)
 - <b>PowerShell</b>
   - [A script for sending emails](https://github.com/AliAmmar01/EmailScript)
 - <b>Python</b>
   - [Youtube Video Downloader](https://github.com/AliAmmar01/Yt-Vid-Downloader)
-- <b>Arduino:</b>
-  - [Self Watering Plant Arduino System](https://github.com/AliAmmar01/Arduino-Self-Watering-Plant-System)
 
 <h2>💬 Contact me:</h2>
 📱 Whatsapp: +201110536366 </br>
@@ -44,16 +42,14 @@ Désireux d'appliquer mes compétences pour stimuler l'innovation et réaliser u
 - <b>C++:</b>
   - [Fiches pratiques et solutions de programmation structurée (Structured Programming)](https://github.com/AliAmmar01/Structured-Programming-Sheets)
   - [Une reconstitution simple du célèbre jeu d'arcade FlappyBird](https://github.com/AliAmmar01/FlappyBird-SFML)
-  - Data structures:
-    - [Système pour suivre la Vaccination(Projet Pratique)](https://github.com/AliAmmar01/Vaccine-Tracking-System)
+  - Data structures: [Système pour suivre la Vaccination(Projet Pratique)](https://github.com/AliAmmar01/Vaccine-Tracking-System)
+  - Arduino: [Système Arduino pour plante à arrosage automatique](https://github.com/AliAmmar01/Arduino-Self-Watering-Plant-System)
 - <b>C:</b>
   - [Un OS simple mettant en œuvre la stratégie d'allocation de mémoire First Fit, la stratégie d'allocation de mémoire Best Fit et la gestion des Page Fault](https://github.com/AliAmmar01/FOS)
 - <b>PowerShell</b>
   - [Un script pour envoyer des emails](https://github.com/AliAmmar01/EmailScript)
 - <b>Python</b>
   - [Téléchargeur de vidéos Youtube](https://github.com/AliAmmar01/Yt-Vid-Downloader)
-- <b>Arduino:</b>
-  - [Système Arduino pour plante à arrosage automatique](https://github.com/AliAmmar01/Arduino-Self-Watering-Plant-System)
 
 <h2>💬 Contactez-moi:</h2>
 📱 Whatsapp: +201110536366 </br>
