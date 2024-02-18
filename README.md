@@ -1,7 +1,7 @@
 🚨Défilez vers le bas pour la version française🚨
 
 <h1> Hello People!</br>
-I'm <a href="https://www.linkedin.com/in/aliaymanammar03/">Ali Ammar</a>, aka cheetos, a Junior Cybersecurity Student 🌐</br>
+I'm <a href="https://www.linkedin.com/in/aliaymanammar03/">Ali Ammar</a>, aka cheetos(s), a Junior Cybersecurity Student 🌐</br>
 Welcome to my github 👋 </h1>
 
 <a align="center">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliammar01)](https://github.com/anuraghazra/github-readme-stats)</a>
@@ -35,7 +35,7 @@ Eager to apply my skills and strengths to drive innovation and achieve group and
 🔗 Linkedin: <a href="https://www.linkedin.com/in/aliaymanammar03/"> Ali Ammar </a>
 
 <h1> Salut tout le monde! </br>
-Je m'appelle <a href="https://www.linkedin.com/in/aliaymanammar03/">Ali Ammar</a>, alias cheetos, un étudiant de cybersécurité en troisieme année 🌐 </br>
+Je m'appelle <a href="https://www.linkedin.com/in/aliaymanammar03/">Ali Ammar</a>, alias cheetos(s), un étudiant de cybersécurité en troisieme année 🌐 </br>
 Bienvenue à mon github 👋 </h1>
 
 <h2> À propos de moi: </h2>
