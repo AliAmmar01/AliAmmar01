@@ -1,7 +1,8 @@
 🚨Défilez vers le bas pour la version française🚨
 
 <h1> Hello People!</br>
-I'm <a href="https://www.linkedin.com/in/aliaymanammar03/">Ali Ammar</a>, aka cheetos(s), a Junior Cybersecurity Student 🌐</br>
+I'm <a href="https://www.linkedin.com/in/aliaymanammar03/">Ali Ammar</a>, aka cheetos(s),</br>
+A Junior Cybersecurity Student 🌐</br>
 Welcome to my github 👋 </h1>
 
 <a align="center">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliammar01)](https://github.com/anuraghazra/github-readme-stats)</a>
@@ -35,12 +36,13 @@ Eager to apply my skills and strengths to drive innovation and achieve group and
 🔗 Linkedin: <a href="https://www.linkedin.com/in/aliaymanammar03/"> Ali Ammar </a>
 
 <h1> Salut tout le monde! </br>
-Je m'appelle <a href="https://www.linkedin.com/in/aliaymanammar03/">Ali Ammar</a>, alias cheetos(s), un étudiant de cybersécurité en troisieme année 🌐 </br>
+Je m'appelle <a href="https://www.linkedin.com/in/aliaymanammar03/">Ali Ammar</a>, alias cheetos(s),</br>
+Un Étudiant de Cybersécurité en Troisieme Année 🌐 </br>
 Bienvenue à mon github 👋 </h1>
 
 <h2> À propos de moi: </h2>
 Actuellement étudiant de cybersécurité en troisieme année à l'Université Ain Shams au Caire, en Égypte, et à l'Université d'East London à Londres, au Royaume-Uni, avec une expérience de formation et de stage de trois mois. Je suis passionné par la protection des actifs numériques et je me consacre à appliquer mes connaissances et mes compétences pour aider les organisations à prévenir et à répondre aux cyberattaques.
-Désireux d'appliquer mes compétences pour stimuler l'innovation et réaliser une croissance de groupe et personnelle dans un environnement collaboratif.
+Désireux d'appliquer mes compétences adin de stimuler l'innovation et réaliser une croissance de groupe et personnelle dans un environnement collaboratif.
 
 <h2>👨‍💻 Projets:</h2>
 
