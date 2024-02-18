@@ -25,7 +25,7 @@ Eager to apply my skills and strengths to drive innovation and achieve group and
   - [Youtube Video Downloader](https://github.com/AliAmmar01/Yt-Vid-Downloader)
   - [Network Sniffer](https://github.com/AliAmmar01/CodeAlpha_Basic_Network_Sniffer)
  
-<h2>👨‍💻 Presentations:</h2>
+<h2>📊 Presentations:</h2>
 
 - [Phishing Attacks and Awareness](https://github.com/AliAmmar01/CodeAlpha_Phishing_Awareness_Training)
 
@@ -57,7 +57,7 @@ Désireux d'appliquer mes compétences pour stimuler l'innovation et réaliser u
   - [Téléchargeur de vidéos Youtube](https://github.com/AliAmmar01/Yt-Vid-Downloader)
   - [Network(Réseau) Sniffer](https://github.com/AliAmmar01/CodeAlpha_Basic_Network_Sniffer)
  
-<h2>👨‍💻 Exposés:</h2>
+<h2>📊 Exposés:</h2>
 
 - [Attaques d’Hameçonnage et Sensibilisation](https://github.com/AliAmmar01/CodeAlpha_Phishing_Awareness_Training)
 
