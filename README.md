@@ -5,7 +5,7 @@ I'm <a href="https://www.linkedin.com/in/aliaymanammar03/">Ali Ammar</a>, aka ch
 A Junior Cybersecurity Student 🌐</br>
 Welcome to my github 👋 </h1>
 
-<a align="center">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliammar01)]</a>
+<a align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliammar01)</a>
 
 <h2> About me:</h2>
 A Junior Cybersecurity Bachelor's student at, both, Ain Shams University in Cairo, Egypt and University of East London in London, United Kingdom, with a three-months internships and training experience. I am an enthusiast of protecting digital assets and dedicated to applying my knowledge and skills to help organizations prevent and respond to cyberattacks.
