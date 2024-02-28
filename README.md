@@ -61,7 +61,7 @@ Désireux d'appliquer mes compétences adin de stimuler l'innovation et réalise
   - [Téléchargeur de vidéos Youtube](https://github.com/AliAmmar01/Yt-Vid-Downloader)
   - [Network(Réseau) Sniffer](https://github.com/AliAmmar01/CodeAlpha_Basic_Network_Sniffer)
 - <b>Suricata</b>
-  - [Règles IDS pour donner des signals à la remarque de TCP 3-way Handshake, les ICMP Ping Packets, les tentatives d'initiation de connection RDP, Telnet et SSH](https://github.com/AliAmmar01/CodeAlpha_Network_Intrusion_Detection_System)
+  - [Règles IDS pour signaler à la remarque de TCP 3-way Handshake, les ICMP Ping Packets, les tentatives d'initiation de connection RDP, Telnet et SSH](https://github.com/AliAmmar01/CodeAlpha_Network_Intrusion_Detection_System)
  
 <h2>📊 Exposés:</h2>
 
