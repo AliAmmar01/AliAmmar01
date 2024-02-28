@@ -25,6 +25,8 @@ Eager to apply my skills and strengths to drive innovation and achieve group and
 - <b>Python</b>
   - [Youtube Video Downloader](https://github.com/AliAmmar01/Yt-Vid-Downloader)
   - [Network Sniffer](https://github.com/AliAmmar01/CodeAlpha_Basic_Network_Sniffer)
+- <b>Suricata</b>
+  - [IDS Rules to Alert 3-way TCP Handshake, ICMP Ping Packets, RDP, Telnet and SSH Initiation Attempts](https://github.com/AliAmmar01/CodeAlpha_Network_Intrusion_Detection_System)
  
 <h2>📊 Presentations:</h2>
 
@@ -58,6 +60,8 @@ Désireux d'appliquer mes compétences adin de stimuler l'innovation et réalise
 - <b>Python</b>
   - [Téléchargeur de vidéos Youtube](https://github.com/AliAmmar01/Yt-Vid-Downloader)
   - [Network(Réseau) Sniffer](https://github.com/AliAmmar01/CodeAlpha_Basic_Network_Sniffer)
+- <b>Suricata</b>
+  - [Règles IDS pour donner des signals à la remarque de TCP 3-way Handshake, les ICMP Ping Packets, les tentatives d'initiation de connection RDP, Telnet et SSH](https://github.com/AliAmmar01/CodeAlpha_Network_Intrusion_Detection_System)
  
 <h2>📊 Exposés:</h2>
 
