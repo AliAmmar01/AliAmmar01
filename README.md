@@ -26,7 +26,7 @@ Eager to apply my skills and strengths to drive innovation and achieve group and
   - [Youtube Video Downloader](https://github.com/AliAmmar01/Yt-Vid-Downloader)
   - [Network Sniffer](https://github.com/AliAmmar01/CodeAlpha_Basic_Network_Sniffer)
 - <b>Suricata</b>
-  - [IDS Rules to Alert  for 3-way TCP Handshake, ICMP Ping Packets, RDP, Telnet and SSH Initiation Attempts](https://github.com/AliAmmar01/CodeAlpha_Network_Intrusion_Detection_System)
+  - [IDS Rules to Alert for 3-way TCP Handshake, ICMP Ping Packets, RDP, Telnet and SSH Initiation Attempts](https://github.com/AliAmmar01/CodeAlpha_Network_Intrusion_Detection_System)
  
 <h2>📊 Presentations:</h2>
 
