@@ -1,14 +1,14 @@
 🚨Défilez vers le bas pour la version française🚨
 
 <h1> Hello People!</br>
-I'm <a href="https://www.linkedin.com/in/aliaymanammar03/">Ali Ammar</a>, aka cheetos(s),</br>
-A Junior Cybersecurity Student 🌐</br>
+I'm <a href="https://www.linkedin.com/in/aliaymanammar03/">Ali Ammar</a></br>
+A Senior Cybersecurity Student 🌐</br>
 Welcome to my github 👋 </h1>
 
 <a align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliammar01)</a>
 
 <h2> About me:</h2>
-A Junior Cybersecurity Bachelor's student at, both, Ain Shams University in Cairo, Egypt and University of East London in London, United Kingdom, with a four-months internships and training experience. I am an enthusiast of protecting digital assets and dedicated to applying my knowledge and skills to help organizations prevent and respond to cyberattacks.
+A Junior Cybersecurity Bachelor's student at, both, Ain Shams University in Cairo, Egypt and University of East London in London, United Kingdom, with a six-months internships and training experience. I am an enthusiast of protecting digital assets and dedicated to applying my knowledge and skills to help organizations prevent and respond to cyberattacks.
 Eager to apply my skills and strengths to drive innovation and achieve group and personal growth in a collaborative environment.
 
 <h2>👨‍💻 Projects:</h2>
@@ -38,13 +38,13 @@ Eager to apply my skills and strengths to drive innovation and achieve group and
 🔗 Linkedin: <a href="https://www.linkedin.com/in/aliaymanammar03/"> Ali Ammar </a>
 
 <h1> Salut tout le monde! </br>
-Je m'appelle <a href="https://www.linkedin.com/in/aliaymanammar03/">Ali Ammar</a>, alias cheetos(s),</br>
-Un Étudiant de Cybersécurité en Troisieme Année 🌐 </br>
+Je m'appelle <a href="https://www.linkedin.com/in/aliaymanammar03/">Ali Ammar</a></br>
+Un Étudiant de Cybersécurité en Quatrième Année 🌐 </br>
 Bienvenue à mon github 👋 </h1>
 
 <h2> À propos de moi: </h2>
-Actuellement étudiant de cybersécurité en troisieme année à l'Université Ain Shams au Caire, en Égypte, et à l'Université d'East London à Londres, au Royaume-Uni, avec une expérience de formation et de stage de quatre mois. Je suis passionné par la protection des actifs numériques et je me consacre à appliquer mes connaissances et mes compétences pour aider les organisations à prévenir et à répondre aux cyberattaques.
-Désireux d'appliquer mes compétences adin de stimuler l'innovation et réaliser une croissance de groupe et personnelle dans un environnement collaboratif.
+Actuellement étudiant de cybersécurité en troisieme année à l'Université Ain Shams au Caire, en Égypte, et à l'Université d'East London à Londres, au Royaume-Uni, avec une expérience de formation et de stage de six mois. Je suis passionné par la protection des actifs numériques et je me consacre à appliquer mes connaissances et mes compétences pour aider les organisations à prévenir et à répondre aux cyberattaques.
+Désireux d'appliquer mes compétences afin de stimuler l'innovation et réaliser une croissance personnelle aussi que de groupe dans un environnement collaboratif.
 
 <h2>👨‍💻 Projets:</h2>
 
