@@ -29,6 +29,7 @@ Eager to apply my skills and strengths to drive innovation and achieve group and
   - [IDS Rules to Alert for 3-way TCP Handshake, ICMP Ping Packets, RDP, Telnet and SSH Initiation Attempts](https://github.com/AliAmmar01/CodeAlpha_Network_Intrusion_Detection_System)
 - <b>Exercises: Network Services Setup</b>
   - [Apache Web Server Setup on Kali Linux and Packet Analysis using Wireshark](https://github.com/AliAmmar01/Apache-Web-server-Setup-on-Kali-Linux)
+  - [FTP Setup (Kali Linux - Filezilla on Windows)](https://github.com/AliAmmar01/FTP-Setup-Kali-Filezilla)
 
  
 <h2>📊 Presentations:</h2>
@@ -67,6 +68,7 @@ Désireux d'appliquer mes compétences afin de stimuler l'innovation et réalise
   - [Règles IDS pour signaler à la remarque de TCP 3-way Handshake, les ICMP Ping Packets, les tentatives d'initiation de connection RDP, Telnet et SSH](https://github.com/AliAmmar01/CodeAlpha_Network_Intrusion_Detection_System)
 - <b>Exercices: Configuration des services réseaux</b>
   - [Configuration du serveur Web Apache sur Kali Linux et analyse des paquets à l'aide de Wireshark](https://github.com/AliAmmar01/Apache-Web-server-Setup-on-Kali-Linux)
+  - [Configuration du FTP (Kali Linux - Filezilla sur Windows)](https://github.com/AliAmmar01/FTP-Setup-Kali-Filezilla)
  
 <h2>📊 Exposés:</h2>
 
