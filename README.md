@@ -25,6 +25,7 @@ Eager to apply my skills and strengths to drive innovation and achieve group and
 - <b>Python</b>
   - [Youtube Video Downloader](https://github.com/AliAmmar01/Yt-Vid-Downloader)
   - [Network Sniffer](https://github.com/AliAmmar01/CodeAlpha_Basic_Network_Sniffer)
+  - [E2EE Chat App](https://github.com/AliAmmar01/E2EE-Chat-App)
 - <b>Suricata</b>
   - [IDS Rules to Alert for 3-way TCP Handshake, ICMP Ping Packets, RDP, Telnet and SSH Initiation Attempts](https://github.com/AliAmmar01/CodeAlpha_Network_Intrusion_Detection_System)
 - <b>Exercises: Network Services Setup</b>
@@ -64,11 +65,12 @@ Désireux d'appliquer mes compétences afin de stimuler l'innovation et réalise
 - <b>Python</b>
   - [Téléchargeur de vidéos Youtube](https://github.com/AliAmmar01/Yt-Vid-Downloader)
   - [Network(Réseau) Sniffer](https://github.com/AliAmmar01/CodeAlpha_Basic_Network_Sniffer)
+  - [E2EE Application de Chat](https://github.com/AliAmmar01/E2EE-Chat-App)
 - <b>Suricata</b>
   - [Règles IDS pour signaler à la remarque de TCP 3-way Handshake, les ICMP Ping Packets, les tentatives d'initiation de connection RDP, Telnet et SSH](https://github.com/AliAmmar01/CodeAlpha_Network_Intrusion_Detection_System)
 - <b>Exercices: Configuration des services réseaux</b>
   - [Configuration du serveur Web Apache sur Kali Linux et analyse des paquets à l'aide de Wireshark](https://github.com/AliAmmar01/Apache-Web-server-Setup-on-Kali-Linux)
-  - [Configuration du FTP (Kali Linux - Filezilla sur Windows)](https://github.com/AliAmmar01/FTP-Setup-Kali-Filezilla)
+  - [Configuration du FTP (Kali Linux - Filezilla sur Windows)](https://medium.com/@ali_ammar)
  
 <h2>📊 Exposés:</h2>
 
