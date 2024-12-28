@@ -29,8 +29,8 @@ Eager to apply my skills and strengths to drive innovation and achieve group and
 - <b>Suricata</b>
   - [IDS Rules to Alert for 3-way TCP Handshake, ICMP Ping Packets, RDP, Telnet and SSH Initiation Attempts](https://github.com/AliAmmar01/CodeAlpha_Network_Intrusion_Detection_System)
 - <b>Exercises: Network Services Setup</b>
-  - [Apache Web Server Setup on Kali Linux and Packet Analysis using Wireshark]
-  - [FTP Setup (Kali Linux - Filezilla on Windows)]
+  - [Apache Web Server Setup on Kali Linux and Packet Analysis using Wireshark](https://medium.com/@ali_ammar/apache-http-server-setup-on-kali-linux-cfad1ab09c62)
+  - [FTP Setup (Kali Linux - Filezilla on Windows)](https://medium.com/@ali_ammar/ftp-setup-on-kali-linux-filezilla-on-windows-9939463703dc)
 
  
 <h2>📊 Presentations:</h2>
@@ -69,8 +69,8 @@ Désireux d'appliquer mes compétences afin de stimuler l'innovation et réalise
 - <b>Suricata</b>
   - [Règles IDS pour signaler à la remarque de TCP 3-way Handshake, les ICMP Ping Packets, les tentatives d'initiation de connection RDP, Telnet et SSH](https://github.com/AliAmmar01/CodeAlpha_Network_Intrusion_Detection_System)
 - <b>Exercices: Configuration des services réseaux</b>
-  - [Configuration du serveur Web Apache sur Kali Linux et analyse des paquets à l'aide de Wireshark]
-  - [Configuration du FTP (Kali Linux - Filezilla sur Windows)]
+  - [Configuration du serveur Web Apache sur Kali Linux et analyse des paquets à l'aide de Wireshark](https://medium.com/@ali_ammar/apache-http-server-setup-on-kali-linux-cfad1ab09c62)
+  - [Configuration du FTP (Kali Linux - Filezilla sur Windows)](https://medium.com/@ali_ammar/ftp-setup-on-kali-linux-filezilla-on-windows-9939463703dc)
  
 <h2>📊 Exposés:</h2>
 
